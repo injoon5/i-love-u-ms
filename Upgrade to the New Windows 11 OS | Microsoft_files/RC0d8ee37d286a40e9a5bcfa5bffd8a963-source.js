@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/5ef092d1efb5/e6b4ca74378c/04d5a91f34e0/RC0d8ee37d286a40e9a5bcfa5bffd8a963-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/5ef092d1efb5/e6b4ca74378c/04d5a91f34e0/RC0d8ee37d286a40e9a5bcfa5bffd8a963-source.min.js', "null!=window.wdgtagging&&null!=window.wdgtagging.comscore&&function(g,n){var i=function(){n.init()};g.category_all_status||g.category.analytics.status?i():g.category.analytics.queue.push(i)}(window.wdgtagging,window.wdgtagging.comscore,window.wdgtagging.util,window.jQuery);");
